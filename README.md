@@ -38,3 +38,12 @@ A coleção serve como **base tecnológica** para o ambiente **KDE Plasma** e os
 ---
 
 ## 📁 Estrutura do Repositório
+## 👥 Equipe
+
+| Matrícula | Nome |
+|-----------|------|
+|222008459  |Daniel Fernandes Silva |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
