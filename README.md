@@ -42,8 +42,8 @@ A coleção serve como **base tecnológica** para o ambiente **KDE Plasma** e os
 
 | Matrícula | Nome |
 |-----------|------|
-|222008459  |Daniel Fernandes Silva |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| 222008459 | Daniel Fernandes Silva |
+| 231011328 | Felipe de Aquino Campelo |
+| 221022570 | Gabryel Nicolas Soares de Sousa |
+| 232004041 | Kauan Jose de Lima Barbosa Campos |
+| 221022088 | Engenharia de Software/FCTE |
