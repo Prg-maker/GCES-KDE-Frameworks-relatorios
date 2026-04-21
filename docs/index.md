@@ -48,3 +48,4 @@ A coleção serve como **base tecnológica** para o ambiente **KDE Plasma** e os
 | 232004041 | Kauan Jose de Lima Barbosa Campos |
 | 221022088 | Lucas Martins Gabriel |
 | 200043030 | Renann de Oliveira Gomes |
+| 221007644 | Caio Alexandre Ornelas Silva |

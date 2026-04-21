@@ -46,4 +46,5 @@ A coleção serve como **base tecnológica** para o ambiente **KDE Plasma** e os
 | 231011328 | Felipe de Aquino Campelo |
 | 221022570 | Gabryel Nicolas Soares de Sousa |
 | 232004041 | Kauan Jose de Lima Barbosa Campos |
+| 221007644 | Caio Alexandre Ornelas Silva |
 | 221022088 | Engenharia de Software/FCTE |
