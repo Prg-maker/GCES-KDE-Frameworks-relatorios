@@ -51,39 +51,39 @@ Os seguintes prints documentam o processo de onboarding e exploração realizado
 
 Estrutura de grupos disponíveis na plataforma (Accessibility, Automotive, Documentation, Education, Frameworks, Games, Graphics)
 
-![KDE Invent Groups](assets/kde-invent.png)
+![KDE Invent Groups](assets/sprintt-0/kde-invent.png)
 
 #### KDE Frameworks - Documentação de Tiers
 
 Arquitetura modular do KDE Frameworks dividida em 4 tiers com suas respectivas dependências
 
-![KDE API - Tier 2](assets/api-kde.png)
+![KDE API - Tier 2](assets/sprint-0/api-kde.png)
 
-![KDE API - Tier 2 Subprojects](assets/api-kde-tier-2-subprojects.png)
+![KDE API - Tier 2 Subprojects](assets/sprint-0/api-kde-tier-2-subprojects.png)
 
 #### KDE Developer Portal
 
 Página inicial com guias de desenvolvimento (Getting Started, Building KDE, Kirigami, KXmlGui, Python, Rust)
 
-![KDE Developer Portal](assets/develop-kde.png)
+![KDE Developer Portal](assets/sprint-0/develop-kde.png)
 
 #### KDE Community Wiki - Get Involved
 
 Página de contribuição com informações sobre como contatar a comunidade e acessar Matrix
 
-![Get Involved](assets/get-involved.png)
+![Get Involved](assets/sprint-0/get-involved.png)
 
 #### Ship Frameworks via Pip
 
 Documentação do projeto "Ship Frameworks via Pip" para distribuição de frameworks via pip
 
-![Ship Frameworks via Pip](assets/ship-frameworks.png)
+![Ship Frameworks via Pip](assets/sprintt-0/ship-frameworks.png)
 
 #### Matrix - KDE Community
 
 Estrutura de canais e salas da comunidade KDE no Matrix
 
-![Matrix KDE Community](assets/matrix.png)
+![Matrix KDE Community](assets/sprint-0/matrix.png)
 
 
 ### Plano Pessoal para a Próxima Sprint
@@ -96,3 +96,66 @@ Estrutura de canais e salas da comunidade KDE no Matrix
 
 ---
 
+## Sprint 1 – \[24/04/2026 – 11/05/2026]
+
+### Resumo da Sprint
+
+Sprint dedicada a encontrar a primeira issue para contribuir. Analisei uma meta issue de documentação e escolhi a lib KWeatherCore para trabalhar, fiz o fork do repositório e comecei a estudar sobre como transferir a documentação da lib de doxygen para qdoc
+
+### Atividades Realizadas
+
+| Data   | Atividade                                            | Tipo (Código/Doc/Discussão/Outro) | Link/Referência         | Status    |
+| ------ | ---------------------------------------------------- | --------------------------------- | ----------------------- | --------- |
+| 09/05  | Leitura da meta issue                                | Estudo                            | [Port API documentation do qdoc](https://invent.kde.org/teams/goals/streamlined-application-development-experience/-/work_items/10)      | Concluído |
+| 10/05  | Estudo inicial da lib kweathercore                   | Estudo                            | [KWeatherCore](https://invent.kde.org/libraries/kweathercore)     | Concluído |
+| 10/04  | Fork da lib                                          | Configuração                      | [martinsglucas/kweathercore](https://invent.kde.org/martinsglucas/kweathercore)          | Concluído |
+| 10/04  | Ver outra issue semelhante que já foi resolvida      | Estudo                            | [Krita](https://invent.kde.org/graphics/krita/-/work_items/76)             | Concluído |
+| 12/04  | Documentação do processo de onboarding               | Documentação                      | Este diário             | Concluído |
+
+### Maiores Avanços
+
+* Ter achado a primeira issue para contribuir
+
+### Maiores Dificuldades
+
+* Repositórios dos framworks sem tag de issues para iniciantes, o que dificulta a busca por uma issue para começar a contribuir
+
+### Aprendizados
+
+* Objetivo da comunidade KDE em melhorar a documentação das libs
+
+### Evidências e Referências Visuais
+
+Os seguintes prints documentam a busca pela primeira issue e o processo de fork realizado:
+
+#### Meta Issue - Port API documentation do qdoc
+
+Esse é o objetivo geral da meta issue, que envolve a transferência da documentação de doxygen para qdoc
+
+![Meta Issue - Port API documentation do qdoc](assets/sprint-1/meta-issue.png)
+
+#### Estudo da lib KWeatherCore
+
+Página da lib KWeatherCore, que é o projeto escolhido para contribuir
+
+![KWeatherCore](assets/sprint-1/kweathercore.png)
+
+Documentação atual da lib KWeatherCore, que utiliza doxygen e precisa ser transferida para qdoc
+
+![KWeatherCore - Documentação](assets/sprint-1/doxygen.png)
+
+#### Fork do repositório
+
+Página do meu fork do repositório da lib KWeatherCore, onde irei realizar as contribuições
+
+![Fork do repositório](assets/sprint-1/fork.png)
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Estudar em profundidade a estrutura da documentação atual da lib KWeatherCore
+- [ ] Analisar o guia de contribuição específico para documentação do KDE
+- [ ] Iniciar a transferência da documentação de doxygen para qdoc
+- [ ] Realizar o primeiro commit e abrir um pull request para revisão
+- [ ] Participar da revisão do código e fazer ajustes conforme o feedback recebido
+
+---
